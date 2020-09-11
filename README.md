@@ -1,1 +1,1 @@
-# Index used for Wiki.
+# Index is used for Wiki docs.
